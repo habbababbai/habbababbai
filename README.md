@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habbababbai
-- 👀 I’m interested in Front-end Web Devlopment and video games
-- 🌱 I’m currently learning React and various technologies related to it, like Redux, Sass, etc.
+- 👀 I’m interested in Frontend web and mobile development
+- 🌱 I’m currently working as a mobile React Native developer
 - 📫 How to reach me: qba.7145@gmail.com
 
 <!---
